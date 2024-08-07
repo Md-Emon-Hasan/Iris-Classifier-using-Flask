@@ -84,7 +84,7 @@ To get started with this project, follow these steps:
 
 ## 🎉 Live Demo
 
-Check out the live version of the Iris Flower Classification app [here](https://emon-jo10.onrender.com).
+Check out the live version of the Iris Flower Classification app [here](https://iris-classifier-using-flask.onrender.com).
 
 ---
 
