@@ -8,7 +8,7 @@ import numpy as np
 app = Flask(__name__)
 
 # load the model
-model = joblib.load('C:/Users/emon1/OneDrive/Desktop/Deploy Machine Learning Model Flask/iris_model.pkl')
+model = joblib.load('iris_model.pkl','rb')
 
 @app.route('/')
 def home():
